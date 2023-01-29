@@ -1,2 +1,2 @@
 # IPTV
-test https://xyhh.github.io/tv
+test https://xyhh.github.io/TV
